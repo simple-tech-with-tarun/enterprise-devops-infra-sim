@@ -1,14 +1,4 @@
-> ⚠️ **COPYRIGHT & USAGE NOTICE**
->
-> © 2026 Tarun Bansal · Simple Tech With Tarun. All rights reserved, except where otherwise stated.
->
-> This repository may contain original technical documentation, tutorials, source code, Terraform configurations, scripts, diagrams, and other materials created and published by Tarun Bansal under the GitHub identity **Simple Tech With Tarun**.
->
-> Public availability does not automatically grant permission to reproduce, republish, redistribute, or commercially exploit original materials. Please review the [Copyright & Intellectual Property Notice](https://github.com/simple-tech-with-tarun/simple-tech-with-tarun/blob/main/COPYRIGHT.md) before reusing such materials.
->
-> Any explicit repository-level or file-level license governs the materials it covers. Third-party content and contributions remain subject to their respective ownership rights, licenses, and applicable terms.
->
-> ---
+<sub>🛡️ © 2026 Tarun Bansal · Simple Tech With Tarun. All rights reserved, except where otherwise stated. See the <a href="https://github.com/simple-tech-with-tarun/simple-tech-with-tarun/blob/main/COPYRIGHT.md">Copyright & Intellectual Property Notice</a>.</sub>
 
 ![Terraform](https://img.shields.io/badge/Terraform-IaC-blue)
 ![Azure](https://img.shields.io/badge/Azure-Cloud-blue)
@@ -102,3 +92,15 @@ modules/
 ## Summary
 
 This project simulates a production-style Azure infrastructure environment built using Terraform. It demonstrates modular Infrastructure as Code practices, secure network design, SSH key-based VM access, and Azure resource provisioning patterns commonly used in enterprise cloud environments.
+
+---
+
+> **🛡️ Copyright & Intellectual Property**
+>
+> © 2026 Tarun Bansal · Simple Tech With Tarun. All rights reserved, except where otherwise stated.
+>
+> This repository may contain original technical documentation, tutorials, source code, Terraform configurations, scripts, diagrams, and other materials created and published by Tarun Bansal under the GitHub identity **Simple Tech With Tarun**.
+>
+> Public availability does not automatically grant permission to reproduce, republish, redistribute, or commercially exploit original materials. Please review the [Copyright & Intellectual Property Notice](https://github.com/simple-tech-with-tarun/simple-tech-with-tarun/blob/main/COPYRIGHT.md) before reusing such materials.
+>
+> Any explicit repository-level or file-level license governs the materials it covers. Third-party content and contributions remain subject to their respective ownership rights, licenses, and applicable terms.
